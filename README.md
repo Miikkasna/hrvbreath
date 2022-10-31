@@ -10,7 +10,7 @@ HR calculated as: 60/interval on every pulse detection.
 
 HRV is calculated using 20-second RMSSD.
 
-Sensor based breathing method TBD once suitable equipment found.
+Sensor based breathing detection TBD once suitable equipment found.
 
 HR, HRV and breathing recording visualization
 ![alt text](hr_breathing.png)
