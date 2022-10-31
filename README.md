@@ -1,6 +1,6 @@
 # Heart rate, Heart Rate Variability and breathing recording
 
-Pulse detection with HR sensor and esp32. Data recording using serial connection. Breathing is recorded manually using keyboard.
+Pulse detection with HR sensor and esp32. Data recording and real time plotting (PyQt) using serial connection. Breathing is recorded manually using keyboard.
 
 HR sensor used: https://wiki.seeedstudio.com/Grove-Ear-clip_Heart_Rate_Sensor/
 
