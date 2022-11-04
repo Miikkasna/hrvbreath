@@ -1,4 +1,4 @@
-# Heart rate, Heart Rate Variability and breathing recording and real time plotting
+# Heart rate, Heart Rate Variability and breathing recording with real time plotting
 
 Pulse detection with HR sensor and esp32. Data recording and real time plotting (PyQt) using serial connection. Breathing is recorded manually using keyboard.
 
